@@ -4,6 +4,7 @@
 ### thaks to sulieman
 
 **this is bold font**
+[mySecondPage](https://bashar-alasmar.github.io/Learning-journal/aboutme)
 
 *this is italic*
 
